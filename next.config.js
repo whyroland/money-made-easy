@@ -1,4 +1,4 @@
-export const reactStrictMode = true;
-// module.exports = {
-//   reactStrictMode: true,
-// }
+/* eslint-disable no-undef */
+module.exports = {
+  reactStrictMode: true,
+}
