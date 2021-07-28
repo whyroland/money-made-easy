@@ -1,4 +1,4 @@
-import { ChakraProvider, Text } from "@chakra-ui/react";
+import { ChakraProvider } from "@chakra-ui/react";
 // import theme from "@styles/theme";
 
 function MyApp({ Component, pageProps }) {
